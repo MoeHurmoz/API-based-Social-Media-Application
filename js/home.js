@@ -72,9 +72,9 @@ async function getAllPosts(page = 1, emptying = true) {
 // PAGINATION (INFINITE SCROLL):
 function handleInfiniteScroll() {
     window.addEventListener("scroll", () => {
-        const scrollPosition = Math.ceil(window.scrollY);
+        const scrollPosition = Math.ceil(window.scrollY) + 5;
         const endOfPage = document.documentElement.scrollHeight - window.innerHeight;
-        if (scrollPosition === endOfPage && currentPage <= lastPage) {
+        if (scrollPosition > endOfPage && currentPage <= lastPage) {
             getAllPosts(++currentPage, false);
         };
     });
