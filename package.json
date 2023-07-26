@@ -1,8 +1,8 @@
 {
-  "name": "final-project",
+  "name": "tarmeez",
   "version": "1.0.0",
   "description": "social media app",
-  "main": "home.html",
+  "main": "views/home",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
