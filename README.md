@@ -18,6 +18,6 @@ HTML5, CSS3, Bootstrap, Bootstrap-Icons, JavaScript, Axios
 ```
 
 
-## Project Link
+## App Link
 
 https://tarmeez-moehurmoz-project.netlify.app/views
