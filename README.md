@@ -1,12 +1,19 @@
+# Tarmeez Application
 
-# Tarmeez
+## Overview
 
-Tarmeez is a simple social media application, I built it on the client side, and on the server side I relied on an API.
+This repository contains the source code for a social media web application called Tarmeez.
+
+Tarmeez is a simple social media application, I built it on the client side, utilizing an API for the server side.
 
 ## Tech Stack
 
-HTML5, CSS3, Bootstrap, JavaScript, Axios
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **JavaScript**
+- **Axios**
 
-## Live Server
+## Live Demo Server
 
-https://tarmeez-moehurmoz-project.netlify.app/views
+You can preview the application at the following link: [Live Demo Server](https://tarmeez-moehurmoz-project.netlify.app/views)
