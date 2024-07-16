@@ -21,6 +21,6 @@ Tarmeez is a simple social media application that I built on the client side, ut
 - **JavaScript**
 - **Axios**
 
-## Live Demo
+## Live Demo Server
 
-You can preview the application at the following link: [Live Demo](https://tarmeez-moehurmoz-project.netlify.app/views)
+You can preview the application at the following link: [Live Demo Server](https://tarmeez-moehurmoz-project.netlify.app/views)
